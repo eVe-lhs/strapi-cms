@@ -1,0 +1,26 @@
+{
+  "kind": "singleType",
+  "collectionName": "socials",
+  "info": {
+    "name": "Social"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "GitHub": {
+      "type": "string"
+    },
+    "Instagram": {
+      "type": "string",
+      "required": true
+    },
+    "Twitter": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
