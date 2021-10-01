@@ -19,7 +19,7 @@
     "Type": {
       "type": "enumeration",
       "enum": [
-        "Web_Development",
+        "WebDevelopment",
         "Programming",
         "Others"
       ],

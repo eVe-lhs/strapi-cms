@@ -13,8 +13,8 @@
   "pluginOptions": {},
   "attributes": {
     "tag": {
-      "collection": "project",
-      "via": "tags"
+      "via": "tags",
+      "collection": "project"
     },
     "name": {
       "type": "string"
